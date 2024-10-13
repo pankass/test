@@ -1,1 +1,1 @@
-alert(location.href)
+alert(location.href + "private")
